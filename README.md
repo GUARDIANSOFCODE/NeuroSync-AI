@@ -74,7 +74,7 @@ os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
 
 ---
 
-## 🧑‍💻 Built With ❤️ by [Your Name]
+## 🧑‍💻 Built With ❤️ by GOC
 
 If you like this project, feel free to ⭐ star it or fork it for your own use.
 

@@ -41,7 +41,15 @@ All locally. All yours. No cloud storage. No compromise.
 | Optional UI    | Streamlit (coming soon!)      |
 
 ---
+🤖 NeuroSync is online. Ask me anything about yourself!
 
+You > What are my top 3 technical skills?
+NeuroSync > Based on your resume, your top skills include Python, machine learning, and React.js.
+
+You > Summarize my education
+NeuroSync > You earned a B.Tech in Computer Science from XYZ University (2019–2023) with a focus on AI and software engineering.
+
+---
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repo

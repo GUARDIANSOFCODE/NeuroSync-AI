@@ -50,6 +50,15 @@ You > Summarize my education
 NeuroSync > You earned a B.Tech in Computer Science from XYZ University (2019–2023) with a focus on AI and software engineering.
 
 ---
+
+#Set Your OpenAI API Key
+os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
+
+--- 
+
+
+
+---
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repo

@@ -57,6 +57,30 @@ os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
 --- 
 
 
+## ✨ Why Use NeuroSync?
+
+✅ Impress interviewers with an AI-powered resume  
+✅ Showcase real GPT-4 / LangChain / NLP skills  
+✅ Convert boring PDFs into smart digital agents  
+✅ Customize for your portfolio or portfolio site  
+
+---
+
+## 🌐 Coming Soon
+
+✅ Streamlit UI with web chat interface  
+🌍 Deploy to Hugging Face or Streamlit Cloud  
+🔗 Link directly from your LinkedIn or portfolio  
+
+---
+
+## 🧑‍💻 Built With ❤️ by [Your Name]
+
+If you like this project, feel free to ⭐ star it or fork it for your own use.
+
+> “The best way to predict your future… is to train it.”
+
+
 
 ---
 ## 📦 Setup Instructions
